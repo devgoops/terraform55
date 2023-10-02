@@ -1,3 +1,3 @@
 output "vpcid" {
-    value = aws_vpc.vpc-dev.id
+  value = aws_vpc.vpc-dev.id
 }
